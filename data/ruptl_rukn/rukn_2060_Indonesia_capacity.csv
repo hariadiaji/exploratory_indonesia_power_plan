@@ -1,0 +1,14 @@
+Nama,jenis,kategori,daya_mw,Area
+PLTS,PLTS,Variable Renewable Energy,108700,INDONESIA
+PLTB,PLTB,Variable Renewable Energy,73500,INDONESIA
+PLTAL,PLTAL,Variable Renewable Energy,1400,INDONESIA
+PLTA,PLTA,Dispatchable,70500,INDONESIA
+PLTU NH3,PLTU,Dispatchable,8400,INDONESIA
+PLTU cofiring biomassa dan CCS,PLTU,Dispatchable,54000,INDONESIA
+PLTP,PLTP,Dispatchable,22700,INDONESIA
+PLTG/PLTGU/PLTMG/PLTMGU H2,PLTGU,Dispatchable,25300,INDONESIA
+PLTG/PLTGU/PLTMG/PLTMGU + CCS,PLTGU,Dispatchable,36900,INDONESIA
+PLTG/PLTGU/PLTMG/PLTMGU (konvensional),PLTGU,Dispatchable,800,INDONESIA
+PLTBio,PLTG,Dispatchable,4500,INDONESIA
+PLTN,PLTN,Dispatchable,35000,INDONESIA
+Waste heat,lain-lain,Dispatchable,900,INDONESIA
